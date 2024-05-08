@@ -83,11 +83,11 @@
 ## 📊 Github stats
 
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=kakkaryogesh&show_icons=true&theme=transparent"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=yogesh1227&show_icons=true&theme=transparent"/>
 
 
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kakkaryogesh&&theme=transparent&show_icons=true)](https://git.io/streak-stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yogesh1227&&theme=transparent&show_icons=true)](https://git.io/streak-stats" /> 
 
 
