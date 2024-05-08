@@ -1,4 +1,4 @@
-<h1 align="center">Yo Kakkar: Bachelor's in Computer Science | Tech Enthusiast | IT Professional</h1>
+<h1 align="center">Yogesh Kakkar: Bachelor's in Computer Science | Tech Enthusiast | IT Professional</h1>
 <h3 align="left">
     
 - Post Graduation Certificate in Computer Science graduate from Humber College and Guru Nanak Dev University
